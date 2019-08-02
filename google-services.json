@@ -1,42 +1,35 @@
 {
   "project_info": {
-    "project_number": "1054978837433",
-    "firebase_url": "https://nxb-car-a3fe9.firebaseio.com",
-    "project_id": "nxb-car-a3fe9",
-    "storage_bucket": "nxb-car-a3fe9.appspot.com"
+    "project_number": "853637023540",
+    "firebase_url": "https://nxb-car-fba8a.firebaseio.com",
+    "project_id": "nxb-car-fba8a",
+    "storage_bucket": "nxb-car-fba8a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1054978837433:android:38675712173b2f43",
+        "mobilesdk_app_id": "1:853637023540:android:4a354716fafbbab8",
         "android_client_info": {
-          "package_name": "com.nxboost.car"
+          "package_name": "com.pdmtry.carpool"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1054978837433-uqn6k5ail9nqo46oh2je1lf7mugc9ntr.apps.googleusercontent.com",
+          "client_id": "853637023540-lhpviha96n6vfsa9q20e67r8tnvosvnt.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBxtf7bdSh44WzyLyk2indw0vYACJshwjw"
+          "current_key": "AIzaSyBacxe3b9FGvLFPn1mDw3BOkerXomyZqx8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1054978837433-uqn6k5ail9nqo46oh2je1lf7mugc9ntr.apps.googleusercontent.com",
+              "client_id": "853637023540-lhpviha96n6vfsa9q20e67r8tnvosvnt.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "1054978837433-t6p6ln6158n9hq9ubqu0n20kdrpovpue.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.nxboost.car"
-              }
             }
           ]
         }
