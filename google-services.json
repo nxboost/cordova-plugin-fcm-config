@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "764572437881",
-    "firebase_url": "https://itraveller-6a42f.firebaseio.com",
-    "project_id": "itraveller-6a42f",
-    "storage_bucket": "itraveller-6a42f.appspot.com"
+    "project_number": "248854017855",
+    "firebase_url": "https://nxboost-decdc.firebaseio.com",
+    "project_id": "nxboost-decdc",
+    "storage_bucket": "nxboost-decdc.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:764572437881:android:7d2a16e87e3a7649",
+        "mobilesdk_app_id": "1:248854017855:android:c05665eb2e220bee",
         "android_client_info": {
-          "package_name": "com.itraveller.passenger"
+          "package_name": "com.nxboost.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "764572437881-cje42hai4hk41ccjeuc2nmct219hb82o.apps.googleusercontent.com",
+          "client_id": "248854017855-5c0ije1svn7662l4ki9r5ok52oj2omi7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA0fYfdz_5XVW4yjfPnCD52D-Wu8-NQ7Ug"
+          "current_key": "AIzaSyCObuiToVJONrYvV1eL0vTC-X0pSO_jwhs"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "764572437881-cje42hai4hk41ccjeuc2nmct219hb82o.apps.googleusercontent.com",
+              "client_id": "248854017855-5c0ije1svn7662l4ki9r5ok52oj2omi7.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
